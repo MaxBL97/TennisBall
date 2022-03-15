@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>06492bde7c5e75dd_jpg.rf.96446d973f3009e0bb7b3db3d2a3f4ec.jpg</filename>
+	<path>06492bde7c5e75dd_jpg.rf.96446d973f3009e0bb7b3db3d2a3f4ec.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>TennisBall</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>173</xmin>
+			<xmax>179</xmax>
+			<ymin>84</ymin>
+			<ymax>89</ymax>
+		</bndbox>
+	</object>
+</annotation>
